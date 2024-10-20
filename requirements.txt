@@ -1,6 +1,7 @@
+torch>=2.0.0
+torchvision
+diffusers>=0.19.3
+transformers>=4.30.0
 accelerate
-diffusers
-invisible_watermark
-torch
-transformers
-xformers
+gradio
+numpy
