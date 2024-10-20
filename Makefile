@@ -1,7 +1,7 @@
 install:
 	pip install -r requirements.txt
 
-test:
+make:
 	app.py
 
 format:
